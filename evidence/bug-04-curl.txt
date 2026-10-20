@@ -1,0 +1,11 @@
+Урьдчилсан нөхцөл: node app.js шинээр асаасан (анхны 3 ном)
+Команд: bugs/bug-04.md-ийн B хэсгийг үз
+
+HTTP/1.1 201 Created
+Content-Type: application/json
+Date: Tue, 20 Oct 2026 13:54:54 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+{"result":"OK","id":4}
